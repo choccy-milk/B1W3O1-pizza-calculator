@@ -1,3 +1,3 @@
-# pizzacalc
+# b1w3o1
 
-Wait, what are we doing here?
+Couldn't be bothered to create consts for elements tbh..
